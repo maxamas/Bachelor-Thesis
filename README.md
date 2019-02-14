@@ -23,7 +23,7 @@ load textlevel and sentence level results, save as cvs tabel
 ## z_make_sent_pred_in_text.py: 
 predict sentiment polarity of each sentence in a text
 
-##z_search_similar.py: 
+## z_search_similar.py: 
 search for similar sentences according to cosine distance of sentence embeddings
 
 
